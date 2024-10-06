@@ -2,7 +2,7 @@
 
 ## Description
 
-"Survive the Battle" is a simple, text-based console game created in C++. Players take on the role of a warrior tasked with battling monsters while managing their health and stamina. The game includes random events, an inventory system for health potions, and progression through levels. The goal is to survive the monsters and reach level 10.
+Survive the Battle - is a simple, text-based console game created in C++. Players take on the role of a warrior tasked with battling monsters while managing their health and stamina. The game includes random events, an inventory system for health potions, and progression through levels. The goal is to survive the monsters and reach level 10.
 
 ## How to Play
 
