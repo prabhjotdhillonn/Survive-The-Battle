@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\prabh\source\repos\Survive The Battle\FileName.cpp(6,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Survive The Battle.vcxproj -> C:\Users\prabh\source\repos\Survive The Battle\x64\Debug\Survive The Battle.exe
